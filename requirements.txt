@@ -116,7 +116,6 @@ pyttsx3
 pytweening
 pytz
 pywhatkit
-pywin32
 PyYAML
 pyzmq
 qt5-applications
